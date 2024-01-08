@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iphun1989&theme=nord&title=Repositories,Stars,Commits,PullRequest,MultipleLang&margin-w=20" alt="iphun1989" /></a> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker**, **AWS**, **Kubernetes**
 
 - 💬 Ask me about **Java, JavaScript, Spring, React**
 
