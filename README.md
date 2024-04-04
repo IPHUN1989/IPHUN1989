@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/IPHUN1989/IPHUN1989/main/About_Me%20(1).png" alt="drawing" height="200" width="1000" align="center"/>
 <h1 align="center">Péter Illés</h1>
-<h3 align="center">I am a structured full-stack software developer who is familiar with developing web applications, in an Agile working environment. I worked with JavaScript and Java, with many frameworks/libraries such as REACT, Spring, Express, Mongoose.</h3>
+<h3 align="center">I am a structured full-stack software developer with DevOps skills who is familiar with developing web applications, in an Agile working environment.  I worked with JavaScript and Java, with many frameworks/libraries such as REACT, Spring, Express, Mongoose. On the other hand, I used DevOps tools technologies as well like Docker, Kubernetes, AWS, Terraform. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iphun1989&label=Profile%20views&color=0e75b6&style=flat" alt="iphun1989" /> </p>
 
